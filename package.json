@@ -4,7 +4,8 @@
     "description": "Invincible",
     "version": "0.0.1",
     "repository": {
-        
+        "type": "Git",
+        "url": "https://github.com/Mr-In4inci3le/Invincible.git"
     },
     "engines": {
         "vscode": "^1.68.0"
