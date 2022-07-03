@@ -3,10 +3,18 @@
     "displayName": "Invincible",
     "description": "Invincible",
     "version": "0.0.1",
+    "publisher": "Hackercodes",
     "repository": {
         "type": "Git",
         "url": "https://github.com/Mr-In4inci3le/Invincible.git"
     },
+    "keywords": [
+        "theme",
+        "Dark theme",
+        "Invincible Theme",
+        "Hacker codes theme",
+        "Invincible dark theme"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
