@@ -3,6 +3,9 @@
     "displayName": "Invincible",
     "description": "Invincible",
     "version": "0.0.1",
+    "repository": {
+        
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
